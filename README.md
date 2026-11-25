@@ -77,7 +77,7 @@ Designed the `Task` document that the search and activity features also build on
 
 ## Walkthrough
 
-soon
+[demo](https://github.com/user-attachments/assets/da5ac767-06e8-456b-8fe0-b0d4040bc65e)
 ## Screenshots
 
 soon
